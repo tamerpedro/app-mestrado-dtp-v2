@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.tmp/
+.streamlit/secrets.toml
+exports/
+*.xlsx
+*.csv.tmp
+.test_riscos_library*.csv
+.test_riscos_bom*.csv
+reference_*
+pdf_last_page_*.png
+.DS_Store
+Thumbs.db
